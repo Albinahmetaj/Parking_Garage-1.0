@@ -1,0 +1,13 @@
+Hej Paul. Nu har jag lyckats komplettera om det vi pratade i zoom.
+
+Kompletteringsuppgifter:
+-Program kunde inte läsa av slot 1/plats 1 i phuset. När vi specifikt
+skulle flytta med regnummer och ta bort fordon.
+[Detta är nu åtgärdat]
+
+-Efter varje debug så återställdes alla parkeringsplatserna. Alla fordon får platser
+men efter nästkommande debug så återställs de.
+[Detta är nu åtgärdat och sparas genom streamwriter och streamreader]
+
+-Vi pratade även om en översikt av alla p platser
+[Detta är nu också åtgärdat]

@@ -1,0 +1,7 @@
+C:\Users\Albin\Desktop\PragueParking komplettera\test\bin\Debug\test.exe.config
+C:\Users\Albin\Desktop\PragueParking komplettera\test\bin\Debug\test.exe
+C:\Users\Albin\Desktop\PragueParking komplettera\test\bin\Debug\test.pdb
+C:\Users\Albin\Desktop\PragueParking komplettera\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Albin\Desktop\PragueParking komplettera\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Albin\Desktop\PragueParking komplettera\test\obj\Debug\test.exe
+C:\Users\Albin\Desktop\PragueParking komplettera\test\obj\Debug\test.pdb
